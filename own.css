@@ -14,7 +14,7 @@ a {
 #facebook {
     width: 25px;
     height: 25px;
-    margin-left: 31%;
+    margin-left: -20%;
     margin-top: 60%;
 }
 .links {
@@ -25,5 +25,9 @@ a {
     color: blue;
 }
 .address {
-    margin-top: 5%;
+    margin-top: 15%;
+}
+.logo {
+    width: 30%;
+    margin-left: 22%;
 }
