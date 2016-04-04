@@ -1,17 +1,21 @@
 .footer {
     background-color: black;
-    height: 20%;
+    height: 30%;
     padding: 2%;
 }
 .copyright {
-    background-color: #808080;
+    background-color: #2199e8;
     color: white;
     padding-left: 7%;
+}
+a {
+    color: white;
 }
 #facebook {
     width: 25px;
     height: 25px;
     margin-left: 31%;
+    margin-top: 60%;
 }
 .links {
     padding-left: 10%;
@@ -19,4 +23,7 @@
 }
 .link:hover {
     color: blue;
+}
+.address {
+    margin-top: 5%;
 }
